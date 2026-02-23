@@ -1,11 +1,11 @@
 ---
 title: Diyarbakır'da Boşanma Davası Nasıl Açılır?
 slug: diyarbakir-da-bosanma-davasi-nasil-acilir
-date: '2026-02-23T13:38:00.000Z'
+date: '2026-02-23T10:38:00.000Z'
 featured_image: 'https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=800'
 category: Ceza Hukuku
 featured: false
-status: Taslak
+status: Yayında
 seo:
   meta_title: ''
   meta_description: ''
